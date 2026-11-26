@@ -10,7 +10,7 @@ body {
   place-items: center;
   gap: 1rem;
   padding: 1.5rem;
-  background: #ff7a00;
+  background: #2563eb;
   color: #17213c;
   font-family: system-ui, sans-serif;
 }
@@ -59,4 +59,13 @@ p {
   color: #475575;
   font-size: 1.125rem;
   line-height: 1.65;
+}
+
+.monkey {
+  display: block;
+  margin: 1.5rem auto 0;
+}
+
+footer {
+  color: #fff;
 }
